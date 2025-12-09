@@ -49,7 +49,7 @@ RMA 25-26/
 
 ├── Vezba 6/ - Дозволе
 
-├── Vezba 7/ - ...
+├── Vezba 7/ - Игра меморије
 
 └── Dizajni sa interneta/ - ...
 
