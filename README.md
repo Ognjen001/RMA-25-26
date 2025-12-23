@@ -51,7 +51,9 @@ RMA 25-26/
 
 ├── Vezba 7/ - Игра меморије
 
-├── Vezba 8/ - ...
+├── Vezba 8/ - QuizApp
+
+├── Vezba 9/ - ...
 
 └── Dizajni sa interneta/ - ...
 
